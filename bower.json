@@ -8,7 +8,7 @@
   "authors": "DumanBi",
   "license": "ISC",
   "keywords": "bmCreate",
-  "homepage": "https://github.com/DumanBi/bm-create.git",
+  "homepage": "git://github.com/DumanBi/bm-create.git",
   "ignore": [
     "**/.*",
     "node_modules",

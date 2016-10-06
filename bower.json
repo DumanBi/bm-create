@@ -1,0 +1,19 @@
+{
+  "name": "@socfafbmcreate/bm-create",
+  "description": "bmCreate directive",
+  "main": [
+    "index.js",
+    "template.js"
+  ],
+  "authors": "DumanBi",
+  "license": "ISC",
+  "keywords": "bmCreate",
+  "homepage": "https://github.com/DumanBi/bm-create",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

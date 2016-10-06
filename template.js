@@ -1,0 +1,1 @@
+angular.module('soc-faf-bmCreate').run(['$templateCache', function($templateCache) {$templateCache.put('create.directive.html','<div>\r\n  <h2>Add Tags</h2>\r\n  <bm-form\r\n    url="bm.vm.url"\r\n    title="bm.vm.title"\r\n    tags="bm.vm.tags"\r\n    save="bm.add()">\r\n  </bm-form>\r\n</div>\r\n');}]);
